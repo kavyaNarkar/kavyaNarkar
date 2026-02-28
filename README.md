@@ -1,7 +1,7 @@
 <!-- ================= HERO ================= -->
 
 <h1 align="center">
-⚡ Kavya Naarkar ⚡
+⚡ Kavya Narkar ⚡
 </h1>
 
 <p align="center">
