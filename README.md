@@ -1,104 +1,113 @@
-<!-- ================= JARVIS ONLINE ================= -->
+<!-- ================= HERO ================= -->
 
 <h1 align="center">
 ⚡ Kavya Naarkar ⚡
 </h1>
 
 <p align="center">
-Founder @ Recursions • Builder • Developer
+Founder @ <b>Recursions</b> • Full Stack Developer • Professional Problem Creator (for bugs)
 </p>
 
 <p align="center">
-
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWFmbGFucG83MGJwMjNhY240NWJnYmswdzRocWxiMjU2MWtmbXFlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pGVrRLHRzoRcQ/giphy.gif" width="560"/>
-
 </p>
 
 <p align="center">
-<i>"If it doesn't exist, build it. If it exists, improve it."</i>
+<i>"If it's easy, everyone builds it. I prefer interesting problems."</i>
 </p>
 
 ---
 
-## 🦾 Identity
+## 🦾 Who Am I?
 
-I don't collect certificates.
+I don’t just “know coding”.
 
-I build systems.
+I build things that either:
+- Work.
+- Scale.
+- Or break dramatically and come back stronger.
 
-- 🦾 App Development Intern
-- 🌐 Web Development Intern
-- 🐍 Python Developer Intern
-- 🚀 Founder @ **Recursions**
-- 🏆 5+ Hackathons Participated
-- 🥇 Hackathon Winner
-- ⚡ Full Stack Developer
+• App Development Intern  
+• Web Development Intern  
+• Python Developer Intern  
+• 🏆 5+ Hackathons  
+• 🥇 Hackathon Winner  
+• 🚀 Founder @ Recursions  
 
----
-
-## 🚀 Recursions — Startup
-
-Recursions focuses on building developer-first platforms and intelligent problem-solving systems.
-
-Areas of Interest:
-
-⚡ Developer Collaboration  
-⚡ Infrastructure Monitoring  
-⚡ AI Automation  
-⚡ Smart Engineering Solutions
-
-Early stage.
-
-Long vision.
+Some people collect certificates.  
+I collect shipped projects.
 
 ---
 
-## 🔥 Projects
+## 🚀 Recursions
 
-🖐️ Air Canvas — Draw in air using computer vision.
+Recursions exists because waiting for opportunities is boring.
 
-🧮 Draw To Calculate (Flexy) — Sketch → AI Solves.
+Focus:
+⚡ Developer-first platforms  
+⚡ Infrastructure intelligence  
+⚡ AI-driven automation  
+⚡ Systems that actually solve something  
 
-🖱️ Virtual Mouse Tracker — Gesture based system control.
-
-🛣️ Pothole Detection — AI road monitoring.
-
-🛡️ RiskLens — Infrastructure risk detection platform.
+Still early.  
+Still hungry.  
+Still building.
 
 ---
 
-# ⚡ Stark Analytics
+## 🔥 Projects (Not Tutorials)
+
+🖐️ **Air Canvas**  
+Because drawing with a mouse felt outdated.
+
+🧮 **Draw To Calculate (Flexy)**  
+Handwritten math → AI solves it.  
+Yes, I made math lazier.
+
+🖱️ **Virtual Mouse Tracker**  
+Control your system with gestures.  
+Because keyboards are optional.
+
+🛣️ **Pothole Detection**  
+AI that notices road problems before complaints do.
+
+🛡️ **RiskLens**  
+Infrastructure risk monitoring.  
+Because ignoring risk is not a strategy.
+
+---
+
+# ⚡ Engineering Pulse
 
 <p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=kavyaNarkar&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em"
-src="https://streak-stats.demolab.com?user=kavyaNarkar&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavyaNarkar&theme=tokyo-night&hide_border=true"/>
 </p>
+
+Consistent > Loud.  
+Silent grind > Public noise.
 
 ---
 
 # 🧬 Code DNA
 
 <p align="center">
-
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyaNarkar&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="200em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyaNarkar&layout=donut&theme=tokyonight&hide_border=true"/>
 </p>
+
+Yes, I use multiple languages.  
+No, I don’t fight about which one is “best”.
 
 ---
 
-# 🐍 Contribution Snake
+# 📈 Contribution Heatmap
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/kavyaNarkar/kavyaNarkar/output/github-contribution-grid-snake.svg"/>
-
+<img src="https://ghchart.rshah.org/409eff/kavyaNarkar" />
 </p>
+
+If the squares are dark, I was busy.  
+If they’re light, I was building something privately.
 
 ---
 
@@ -106,47 +115,27 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyaNarkar&
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
-![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
 
 ---
 
-### Tools
+## 🎯 Current Objective
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
-
----
-
-## 🎯 Current Mission
-
-Building platforms developers enjoy using.
-
-Scaling **Recursions** quietly.
-
-Debugging reality one commit at a time.
+Building scalable systems.  
+Growing Recursions.  
+Outgrowing yesterday’s limits.
 
 ---
 
-## ⚡ Personality Patch Notes
+## 🦾 Final Note
 
-✔ Builder Mode ON  
-✔ Sarcasm Stable Release  
-✔ Founder Mentality Installed  
-✔ Sleep Optional.
+I don’t try to be the smartest in the room.
 
----
+I try to be the one who builds the room.
 
-## 🦾 Final Words
-
-Good code speaks.
-
-Great systems scale.
-
-⭐ Follow the journey.  
-💥 Star the builds.
+⭐ Follow if you respect builders.  
+💥 Star if you respect execution.
