@@ -1,11 +1,9 @@
 <!-- ================= HERO ================= -->
 
-<h1 align="center">
-⚡ Kavya Narkar ⚡
-</h1>
+<h1 align="center">⚡ Kavya Naarkar ⚡</h1>
 
 <p align="center">
-Founder @ <b>Recursions</b> • Full Stack Developer • Professional Problem Creator (for bugs)
+Founder @ <b>Recursions</b> • Full Stack Developer • Builder
 </p>
 
 <p align="center">
@@ -13,19 +11,18 @@ Founder @ <b>Recursions</b> • Full Stack Developer • Professional Problem Cr
 </p>
 
 <p align="center">
-<i>"If it's easy, everyone builds it. I prefer interesting problems."</i>
+<i>"Some people wait for opportunities. I engineer them."</i>
 </p>
 
 ---
 
-## 🦾 Who Am I?
+# 🦾 Identity
 
-I don’t just “know coding”.
+I don’t just “do coding”.
 
-I build things that either:
-- Work.
-- Scale.
-- Or break dramatically and come back stronger.
+I design systems.
+I ship projects.
+I solve problems that don’t come with step-by-step tutorials.
 
 • App Development Intern  
 • Web Development Intern  
@@ -34,46 +31,76 @@ I build things that either:
 • 🥇 Hackathon Winner  
 • 🚀 Founder @ Recursions  
 
-Some people collect certificates.  
-I collect shipped projects.
+Certificates are fine.  
+Execution is better.
 
 ---
 
-## 🚀 Recursions
+# 🚀 Recursions
 
-Recursions exists because waiting for opportunities is boring.
+Recursions was started because waiting for the “right time” is inefficient.
 
-Focus:
-⚡ Developer-first platforms  
-⚡ Infrastructure intelligence  
-⚡ AI-driven automation  
-⚡ Systems that actually solve something  
+Focus Areas:
 
-Still early.  
-Still hungry.  
-Still building.
+⚡ Developer Collaboration Platforms  
+⚡ Infrastructure Monitoring Systems  
+⚡ AI-Powered Automation  
+⚡ Real-world Engineering Solutions  
+
+Early stage.
+
+Long-term vision.
+
+Built to scale.
 
 ---
 
-## 🔥 Projects (Not Tutorials)
+# 🔥 Projects That Actually Exist
 
 🖐️ **Air Canvas**  
-Because drawing with a mouse felt outdated.
+Computer vision-based drawing in air.
 
 🧮 **Draw To Calculate (Flexy)**  
-Handwritten math → AI solves it.  
-Yes, I made math lazier.
+Handwritten math → AI solves instantly.
 
 🖱️ **Virtual Mouse Tracker**  
-Control your system with gestures.  
-Because keyboards are optional.
+Gesture-controlled system navigation.
 
 🛣️ **Pothole Detection**  
-AI that notices road problems before complaints do.
+AI-driven road damage monitoring.
 
 🛡️ **RiskLens**  
-Infrastructure risk monitoring.  
-Because ignoring risk is not a strategy.
+Infrastructure risk detection & monitoring platform.
+
+Not clones.  
+Not copied tutorials.  
+Built from scratch.
+
+---
+
+# 🧬 Code DNA
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Architect-111111?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/JavaScript-Engineer-111111?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Java-Builder-111111?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/React-Frontend-111111?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Flask-Backend-111111?style=for-the-badge&logo=flask"/>
+</p>
+
+---
+
+### Core Strengths
+
+• Full Stack Development  
+• System Design Thinking  
+• Computer Vision Projects  
+• AI/ML Integration  
+• Product-Oriented Engineering  
+
+I don’t just write functions.
+
+I build behavior.
 
 ---
 
@@ -83,35 +110,23 @@ Because ignoring risk is not a strategy.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavyaNarkar&theme=tokyo-night&hide_border=true"/>
 </p>
 
-Consistent > Loud.  
-Silent grind > Public noise.
+Consistency > Noise.  
+Systems > Hype.
 
 ---
 
-# 🧬 Code DNA
-
-<p align="center">
-<img height="200em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyaNarkar&layout=donut&theme=tokyonight&hide_border=true"/>
-</p>
-
-Yes, I use multiple languages.  
-No, I don’t fight about which one is “best”.
-
----
-
-# 📈 Contribution Heatmap
+# 📈 Contribution Map
 
 <p align="center">
 <img src="https://ghchart.rshah.org/409eff/kavyaNarkar" />
 </p>
 
-If the squares are dark, I was busy.  
-If they’re light, I was building something privately.
+If it’s green, I was building.  
+If it’s quiet, I was building privately.
 
 ---
 
-## ⚙️ Tech Arsenal
+# ⚙️ Tech Arsenal
 
 ### Languages
 
@@ -123,19 +138,19 @@ If they’re light, I was building something privately.
 
 ---
 
-## 🎯 Current Objective
+# 🎯 Current Objective
 
-Building scalable systems.  
-Growing Recursions.  
+Scaling Recursions.  
+Building smarter systems.  
 Outgrowing yesterday’s limits.
 
 ---
 
-## 🦾 Final Note
+# 🦾 Final Words
 
-I don’t try to be the smartest in the room.
+I don’t try to be the loudest developer in the room.
 
-I try to be the one who builds the room.
+I prefer being the one who builds the room.
 
 ⭐ Follow if you respect builders.  
 💥 Star if you respect execution.
