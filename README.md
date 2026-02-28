@@ -5,22 +5,24 @@
 </h1>
 
 <p align="center">
-Founder • Builder • Developer
+Founder @ Recursions • Builder • Developer
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/l0HlQXkh1wx1RjtUA/giphy.gif" width="550"/>
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWFmbGFucG83MGJwMjNhY240NWJnYmswdzRocWxiMjU2MWtmbXFlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pGVrRLHRzoRcQ/giphy.gif" width="560"/>
+
 </p>
 
 <p align="center">
-<i>“Genius. Billionaire. Philanthropist? Not yet. Builder? Definitely.”</i>
+<i>"If it doesn't exist, build it. If it exists, improve it."</i>
 </p>
 
 ---
 
-# 🦾 Identity
+## 🦾 Identity
 
-I don’t just write code.
+I don't collect certificates.
 
 I build systems.
 
@@ -32,47 +34,36 @@ I build systems.
 - 🥇 Hackathon Winner
 - ⚡ Full Stack Developer
 
-Currently obsessed with solving problems before they become trends.
-
 ---
 
-# 🚀 Recursions — Startup
+## 🚀 Recursions — Startup
 
-**Recursions** exists because ideas deserve execution.
+Recursions focuses on building developer-first platforms and intelligent problem-solving systems.
 
-Focus Areas:
+Areas of Interest:
 
-⚡ Developer Collaboration Platforms  
+⚡ Developer Collaboration  
 ⚡ Infrastructure Monitoring  
-⚡ AI Automation Tools  
-⚡ Real Problem Engineering.
+⚡ AI Automation  
+⚡ Smart Engineering Solutions
 
 Early stage.
 
-Long game mindset.
+Long vision.
 
 ---
 
-# 🔥 Projects — Built Under Pressure
+## 🔥 Projects
 
-🖐️ **Air Canvas**  
-→ Draw in air using computer vision.
+🖐️ Air Canvas — Draw in air using computer vision.
 
-🧮 **Draw To Calculate (Flexy)**  
-→ Sketch math problems → AI solves instantly.
+🧮 Draw To Calculate (Flexy) — Sketch → AI Solves.
 
-🖱️ **Virtual Mouse Tracker**  
-→ Control systems using gestures.
+🖱️ Virtual Mouse Tracker — Gesture based system control.
 
-🛣️ **Pothole Detection**  
-→ AI based road monitoring.
+🛣️ Pothole Detection — AI road monitoring.
 
-🛡️ **RiskLens**  
-→ Infrastructure risk detection platform.
-
-Not tutorials.
-
-Actual builds.
+🛡️ RiskLens — Infrastructure risk detection platform.
 
 ---
 
@@ -81,10 +72,10 @@ Actual builds.
 <p align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=kavyaNarkar&show_icons=true&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api?username=kavyaNarkar&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em"
-src="https://github-readme-streak-stats.herokuapp.com/?user=kavyaNarkar&theme=tokyonight&hide_border=true"/>
+src="https://streak-stats.demolab.com?user=kavyaNarkar&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -94,16 +85,14 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=kavyaNarkar&theme=to
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyaNarkar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyaNarkar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake (Jarvis Tracking Activity)
-
-<!-- IMPORTANT -->
-<!-- Snake only appears after workflow runs once -->
+# 🐍 Contribution Snake
 
 <p align="center">
 
@@ -113,15 +102,15 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=kavyaNarkar&theme=to
 
 ---
 
-# ⚙️ Tech Arsenal
+## ⚙️ Tech Arsenal
 
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
 
 ---
 
@@ -134,30 +123,30 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=kavyaNarkar&theme=to
 
 ---
 
-# 🎯 Current Mission
+## 🎯 Current Mission
 
-Building platforms developers actually enjoy using.
+Building platforms developers enjoy using.
 
 Scaling **Recursions** quietly.
 
-Learning faster than yesterday.
+Debugging reality one commit at a time.
 
 ---
 
-# ⚡ Personality Patch Notes
+## ⚡ Personality Patch Notes
 
-✔ Builder Mentality Installed  
-✔ Slight Ego (Optimized Version)  
-✔ Sarcasm Enabled  
-✔ Debug > Sleep.
+✔ Builder Mode ON  
+✔ Sarcasm Stable Release  
+✔ Founder Mentality Installed  
+✔ Sleep Optional.
 
 ---
 
-# 🦾 Final Words
+## 🦾 Final Words
 
-If it already exists…
+Good code speaks.
 
-I’ll probably rebuild it better.
+Great systems scale.
 
 ⭐ Follow the journey.  
-💥 Star the chaos.
+💥 Star the builds.
