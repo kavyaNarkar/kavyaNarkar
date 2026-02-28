@@ -1,6 +1,6 @@
 <!-- ================= HERO ================= -->
 
-<h1 align="center">⚡ Kavya Naarkar ⚡</h1>
+<h1 align="center">⚡ Kavya Narkar ⚡</h1>
 
 <p align="center">
 Founder @ <b>Recursions</b> • Full Stack Developer • Builder
